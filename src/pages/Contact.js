@@ -13,7 +13,7 @@ export default function Contact() {
     {
       icon: <Mail className="w-6 h-6" />,
       title: "Email Us",
-      description: "kevin@example.com",
+      description: "kevinkutoane@ymail.com",
       action: "Send Email",
       color: "from-indigo-500 to-blue-600"
     }
@@ -130,7 +130,7 @@ export default function Contact() {
         <div className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-blue-600/20 to-cyan-600/20 rounded-full border border-cyan-500/30">
           <span className="bg-gradient-to-r from-cyan-300 to-blue-300 bg-clip-text text-transparent font-semibold">Built by Kevin</span>
           <span className="text-slate-400">•</span>
-          <span className="text-slate-400">Web & Intranet Specialist</span>
+          <span className="text-slate-400">Full-Stack Software Developer</span>
         </div>
       </div>
     </main>
